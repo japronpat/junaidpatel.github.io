@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://shavejshaikh.github.io/
+> https://japronpat.github.io/junaidpatel.github.io/
 
 ## Features 📋
 ⚡️ Fully Responsive\
